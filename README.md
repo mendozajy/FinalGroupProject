@@ -17,3 +17,4 @@ Airbnb data
    summarize top 10 neighboord listings
    
 Kristin covered other topics including heat maps and other graphs
+Rafael manipulated the data from insiderairbnb.com into one large file.  I chose to work off the indivual files from the website as they were easier for me to digest
