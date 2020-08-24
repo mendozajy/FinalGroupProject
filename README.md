@@ -4,6 +4,7 @@ http://insideairbnb.com/san-francisco/
 https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-in-the-United-St/kn79-hsxyRough 
 
 Worked with Rafael Cepedes and Kristen Ursy
+https://github.com/kristinusry/project01
 
 Topics covered:
 CDC data - CA number of cases and number of deaths
