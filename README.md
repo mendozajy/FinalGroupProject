@@ -5,6 +5,7 @@ https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-in-the-United-St/kn7
 
 Worked with Rafael Cepedes and Kristen Ursy
 https://github.com/kristinusry/project01
+https://github.com/RafaelCespedes1/Data-Analytics-Boot-Camp/tree/master/Project_1_AirBnB
 
 Topics covered:
 CDC Data
