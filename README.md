@@ -1,11 +1,14 @@
 # FinalGroupProject
+Worked with Rafael Cepedes and Kristen Ursy
+https://github.com/kristinusry/project01
+https://github.com/RafaelCespedes1/Data-Analytics-Boot-Camp/tree/master/Project_1_AirBnB
+
+As a team we agreed to have Kristin lead the PPT class presenation.
+
 sources: https://github.com/nytimes/covid-19-data/blob/master/us-counties.csv, 
 http://insideairbnb.com/san-francisco/
 https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-in-the-United-St/kn79-hsxyRough 
 
-Worked with Rafael Cepedes and Kristen Ursy
-https://github.com/kristinusry/project01
-https://github.com/RafaelCespedes1/Data-Analytics-Boot-Camp/tree/master/Project_1_AirBnB
 
 Topics covered:
 CDC Data
